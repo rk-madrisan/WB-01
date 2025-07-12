@@ -38,7 +38,7 @@ To run this project locally on your machine:
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/rk-madrisan/FSD-Portfolio.git
+git clone https://github.com/rk-madrisan/WB-01.git
 
 # Step 2: Navigate to the project directory
 cd FSD-Portfolio
